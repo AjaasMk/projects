@@ -1,0 +1,8 @@
+**/.venv/
+**/venv/
+**/__pycache__/
+*.pyc
+**/faiss_index/
+**/.env
+**/uv.lock
+.DS_Store
